@@ -1,0 +1,22 @@
+Data Linked to You
+The following data may be collected and linked to your identity:
+Search History
+User Content
+Emails or Text Messages
+
+Data Not Linked to You
+The following data may be collected but is not linked to your identity:
+Usage Data
+Product Interaction
+User Content
+Photos or Videos
+Customer Support
+Other User Content
+Audio Data
+Diagnostics
+Performance Data
+Crash Data
+Other Diagnostic Data
+Identifiers
+User ID
+
